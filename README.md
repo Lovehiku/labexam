@@ -6,5 +6,6 @@
 -  Bubble Sort Algorithm
 -  Mergesort
 
-### Hikma Oumer UGR/6192/15 i do the files ina single file
+##### Hikma Oumer 
+##### UGR/6192/15 
 
